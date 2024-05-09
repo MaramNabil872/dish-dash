@@ -1,0 +1,8 @@
+{
+  "name": "DishDash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fe4e0b7d"
+}
